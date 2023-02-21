@@ -9,4 +9,9 @@ Langkah yang harus dilakukan :
 
 Buat Folder Models dan Controllers
 Folder Models
-[ ] buat setup.go
+1. buat setup.go
+2. book.go
+
+Folder Controller
+1. Buat Folderlagi bookcontroller
+2. buat file bookcontroller.go
