@@ -21,3 +21,5 @@ Hilangkan Warning pada data error
 
 Buat database Mysql
 berinama database sesuai target
+
+Ujicoba di Postmant 
