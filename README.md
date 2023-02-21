@@ -15,3 +15,9 @@ Folder Models
 Folder Controller
 1. Buat Folderlagi bookcontroller
 2. buat file bookcontroller.go
+
+Hilangkan Warning pada data error
+- go mod tidy
+
+Buat database Mysql
+berinama database sesuai target
